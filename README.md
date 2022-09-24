@@ -1,1 +1,2 @@
 # EMPLOYEE-PROMOTIOIN-CASE-STUDY
+Created a classification problem model using logistic decision trees random forest and also the eda for the same for Employee Promotion. EDA of the dataset depicting the different analysis which one found and performed operations on the data set like cleaning and encoding etc for Startup case. Performed a full exploratory data analysis on the datset , and also created visualizations using univariate bivariate and multivariate analysis.
